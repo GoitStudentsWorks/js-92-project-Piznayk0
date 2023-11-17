@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/project-Piznayk0/",
+    "build": "vite build --base=/js-92-project-Piznayk0/",
     "preview": "vite preview"
   },
   "devDependencies": {
